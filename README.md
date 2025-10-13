@@ -1,6 +1,6 @@
 # 📊 Sales Analysis Dashboard (Excel) | FNP Case Study
 
-![Dashboard Preview](Dashboard_Preview.png)
+![Dashboard Preview](FNP%20Dashboard.png)
 
 ## 🎯 Objective  
 To visualize and analyze key business metrics — from revenue trends and top-selling categories to delivery timelines and customer behavior.
