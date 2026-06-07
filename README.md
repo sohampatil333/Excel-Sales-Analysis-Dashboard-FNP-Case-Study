@@ -60,6 +60,4 @@ To visualize and analyze key business metrics — from revenue trends and top-se
 Data Analyst / Excel & BI Enthusiast  
 🔗 [LinkedIn](https://www.linkedin.com/in/sohampatil333/)
 
----
-
-⭐ *If you find this project useful or interesting, feel free to give it a star!*  
+ 
